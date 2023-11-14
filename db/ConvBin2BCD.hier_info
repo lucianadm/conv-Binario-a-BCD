@@ -1,4 +1,4 @@
-|bin_bcd
+|bin_3bcd
 num_bin[0] => k0_bcd[0].DATAIN
 num_bin[1] => LessThan15.IN8
 num_bin[1] => Add15.IN8
@@ -45,9 +45,5 @@ k2_bcd[0] <= z.DB_MAX_OUTPUT_PORT_TYPE
 k2_bcd[1] <= z.DB_MAX_OUTPUT_PORT_TYPE
 k2_bcd[2] <= z.DB_MAX_OUTPUT_PORT_TYPE
 k2_bcd[3] <= z.DB_MAX_OUTPUT_PORT_TYPE
-k3_bcd[0] <= z.DB_MAX_OUTPUT_PORT_TYPE
-k3_bcd[1] <= z.DB_MAX_OUTPUT_PORT_TYPE
-k3_bcd[2] <= z.DB_MAX_OUTPUT_PORT_TYPE
-k3_bcd[3] <= <GND>
 
 
